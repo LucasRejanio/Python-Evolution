@@ -1,3 +1,5 @@
+![Test library workflow status](https://github.com/tcort/markdown-link-check/workflows/Test%20library/badge.svg)
+
 # Python evolution
 My Evolution in Python Scripts. 
 
